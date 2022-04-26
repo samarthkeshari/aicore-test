@@ -1,0 +1,14 @@
+{
+    "repo": {
+            "name": "aicore-test",
+            "url": "https://github.com/samarthkeshari/aicore-test.git",
+            "username": "samarthkeshari",
+            "password": "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"
+    },
+    "app": {
+            "applicationName": "aicore-test-app",
+            "repositoryUrl": "https://github.com/samarthkeshari/aicore-test.git",
+            "revision": "HEAD",
+            "path": "workflows"
+    }
+}
